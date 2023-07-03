@@ -8,3 +8,5 @@ if o == 1:
     print("Addition of", a, "and", b, "is", a+b)
 elif o == 2:
     print("Substraction of", a, "and", b, "is", a-b)
+elif o == 3:
+    print("Multiplication of", a, "and", b, "is", a*b)
