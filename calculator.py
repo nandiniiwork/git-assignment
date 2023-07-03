@@ -15,3 +15,6 @@ elif o == 4:
             print("Division by zero is undefined")
         else:
             print("Division of", a, "and", b, "is", a/b)    
+else:
+    print("Invalid input")
+              
