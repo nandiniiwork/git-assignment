@@ -20,4 +20,5 @@ while True:
             print("Division of", a, "and", b, "is", a/b)    
     else:
         print("Invalid input")
+        continue
               
